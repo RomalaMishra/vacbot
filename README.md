@@ -33,3 +33,6 @@ Then run the following script which will allow you to teleop the bot and generat
 rosrun Vacbot turtlebot3_teleop.py
 ```
 Now move the bot using W,A,S,D keys and see the bot generate a beautifull map of the world.
+
+## Contribution
+This project is the result of collaborative efforts. Special thanks to all the contributors who have helped build this project. Contributions to this project are welcome. If you have any ideas for improvements, bug fixes, or additional features, please feel free to fork the repository and submit a pull request.
